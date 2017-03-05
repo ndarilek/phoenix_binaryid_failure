@@ -1,0 +1,3 @@
+defmodule PhoenixBinaryidFailure.Web.UserView do
+  use PhoenixBinaryidFailure.Web, :view
+end
